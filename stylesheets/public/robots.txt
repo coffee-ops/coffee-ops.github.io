@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://coffee-ops.github.io/sitemap.xml 
