@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Coffee | Coffee-Ops]]></title>
+  <link href="http://coffee-ops.github.io/blog/categories/coffee/atom.xml" rel="self"/>
+  <link href="http://coffee-ops.github.io/"/>
+  <updated>2014-10-16T11:30:10-05:00</updated>
+  <id>http://coffee-ops.github.io/</id>
+  <author>
+    <name><![CDATA[The Coffee-Ops Community]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Forked and Created]]></title>
+    <link href="http://coffee-ops.github.io/blog/2014/10/16/forked-and-created/"/>
+    <updated>2014-10-16T11:10:48-05:00</updated>
+    <id>http://coffee-ops.github.io/blog/2014/10/16/forked-and-created</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve gone ahead and <a href="https://github.com/coffee-ops/coffee">forked</a> from <a href="https://github.com/roidrage">Mathias Meyer</a> so we can start posting docs on different
+recipes. It&rsquo;s a start, but hell every building starts with a single (well two) brick right?</p>
+
+<p>If you have suggestions or recipes yourself please don&rsquo;t hesitate to put in a PR with it so we can get it merged in!</p>
+]]></content>
+  </entry>
+  
+</feed>
